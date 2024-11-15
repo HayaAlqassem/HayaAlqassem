@@ -1,5 +1,5 @@
 - 👋 Hey, it's Haya @HayaAlqassem.
-I specialize in manual and automated testing and improving software quality through effective test strategies.
+I specialize in software testing and improving software quality through effective test strategies.
 I'm always looking to contribute to building better software!
 - 👀 I'm interested in Software Testing, QC, and QA.
 - 🌱 I'm actively learning about software testing and quality to broaden my expertise in the field.
